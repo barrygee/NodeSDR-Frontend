@@ -8,8 +8,7 @@
 
 ## Overview
 
-This module provides the user interface for the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application. 
-The module is automatically imported when the <a href="https://github.com/barrygee/NodeSDR/blob/main/setup.sh">setup.sh</a> file is run within that project. 
+This service provides the user interface for the <a href="https://github.com/barrygee/NodeSDR">NodeSDR</a> application.
 
 <br>
 
